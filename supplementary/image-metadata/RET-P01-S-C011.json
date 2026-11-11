@@ -1,0 +1,169 @@
+{
+  "G1": {
+    "_meta": {
+      "title": "RET-P01-S-C009"
+    },
+    "class_type": "OpenAIGPTImageNodeV2",
+    "inputs": {
+      "model": "gpt-image-2.5-sunburst",
+      "model.background": "opaque",
+      "model.custom_height": 864,
+      "model.custom_width": 1536,
+      "model.images.image_1": [
+        "L1",
+        0
+      ],
+      "model.images.image_2": [
+        "L2",
+        0
+      ],
+      "model.quality": "medium",
+      "model.size": "Custom",
+      "n": 1,
+      "prompt": "Draw ONE continuous monochrome graphite-and-ink storyboard frame, one camera view, one instant. No labels, dialogue, captions, text, panels, collage, contact sheet or multiple temporal stages. Preserve character identity from attached sheets, but never copy the sheet layout. The LAST reference is the shared clean environment: preserve geography/materials, change crop and camera according to this shot. Use readable restrained gray values; cave remains dark, mountain daylight remains soft.\n\nReference order: 1=RET-P01-geom-mugeuk, 2=RET-P01-stage\nVisible identities or body parts permitted in THIS frame: son. Other characters may exist outside frame but must not be added.\n\nShared scene geography, binding across the whole sequence: the same mountain path with forked pine, low rounded boulder and rocky bank from the clean stage reference. Travel follows the path from lower left toward upper right distance. In stopped two-shots SON Geom Mugeuk is on the LEFT, FATHER Geom Ujin on the RIGHT. Father faces left toward son; son faces right toward father. Keep camera on the valley/near side of the relationship axis; camera may move between side, three-quarter front and rear within that side, but do not mirror their world positions. Father has no backpack; son wears the SAME large hunting backpack throughout. When father turns partly to leave then asks another question, their feet remain on the same stopping patch. Finger attack is father's anatomical RIGHT index finger; it passes immediately beside son's anatomical RIGHT cheek, never through skin. Son turns his face away from the air line, cheek stays uninjured. Father lowers attacking hand by his reaction shot. Son touches that same RIGHT cheek with his RIGHT hand through protest and joke. He lowers the hand before following father. At the ending father leads along the same path, son follows several steps behind. Father never turns back during praise or thanks. Son looks ALONG the path toward father, not backward toward camera. Maintain soft daylight, clothing, ages, backpack and landmarks. No new people, weapon use, wounds or extra attacks. The faint air streak appears ONLY in the attack frame, nowhere else.\n\nCURRENT SHOT 9: MCU. Chest to head.\nCamera: 검무극의 볼과 손이 보이는 사선 눈높이. Planned movement: 고정; depict one still view only.\nExact current representative instant: 검무극이 손을 볼에 댄 채 아버지를 향해 입을 열고 있다. 볼에는 상처나 피가 없고 어깨에는 배낭 끈이 걸려 있다.\nCurrent event context: 검무극의 가슴 위를 담는다. 검무극이 열기가 남은 볼을 손으로 짚고, 피하지 못했으면 얼굴에 구멍이 났을 것이라며 목소리를 높인다. 손 주변의 볼은 상처 없이 드러난다.\nContinuity production state for THIS instant: Son stays left facing father right; RIGHT hand touches same uninjured RIGHT cheek. Same cheek through protest and joke, backpack stays worn. No air streak.\n\nPREVIOUS instant, context ONLY, do not draw it again: 검우진이 눈을 조금 크게 뜬 채 아들을 바라보고 있다.\nNEXT instant, context ONLY, do not jump ahead or combine it: 검우진이 아들을 향해 몸을 둔 채 담담한 얼굴로 말하고 있다.\nRender ONLY the current instant. Preserve anatomical sides, object ownership and the specified crop. A close-up is allowed to omit off-frame objects; do not force the entire scene into every shot.",
+      "seed": 0
+    }
+  },
+  "G2": {
+    "_meta": {
+      "title": "RET-P01-S-C010"
+    },
+    "class_type": "OpenAIGPTImageNodeV2",
+    "inputs": {
+      "model": "gpt-image-2.5-sunburst",
+      "model.background": "opaque",
+      "model.custom_height": 864,
+      "model.custom_width": 1536,
+      "model.images.image_1": [
+        "L3",
+        0
+      ],
+      "model.images.image_2": [
+        "L2",
+        0
+      ],
+      "model.quality": "medium",
+      "model.size": "Custom",
+      "n": 1,
+      "prompt": "Draw ONE continuous monochrome graphite-and-ink storyboard frame, one camera view, one instant. No labels, dialogue, captions, text, panels, collage, contact sheet or multiple temporal stages. Preserve character identity from attached sheets, but never copy the sheet layout. The LAST reference is the shared clean environment: preserve geography/materials, change crop and camera according to this shot. Use readable restrained gray values; cave remains dark, mountain daylight remains soft.\n\nReference order: 1=RET-P01-geom-ujin, 2=RET-P01-stage\nVisible identities or body parts permitted in THIS frame: father. Other characters may exist outside frame but must not be added.\n\nShared scene geography, binding across the whole sequence: the same mountain path with forked pine, low rounded boulder and rocky bank from the clean stage reference. Travel follows the path from lower left toward upper right distance. In stopped two-shots SON Geom Mugeuk is on the LEFT, FATHER Geom Ujin on the RIGHT. Father faces left toward son; son faces right toward father. Keep camera on the valley/near side of the relationship axis; camera may move between side, three-quarter front and rear within that side, but do not mirror their world positions. Father has no backpack; son wears the SAME large hunting backpack throughout. When father turns partly to leave then asks another question, their feet remain on the same stopping patch. Finger attack is father's anatomical RIGHT index finger; it passes immediately beside son's anatomical RIGHT cheek, never through skin. Son turns his face away from the air line, cheek stays uninjured. Father lowers attacking hand by his reaction shot. Son touches that same RIGHT cheek with his RIGHT hand through protest and joke. He lowers the hand before following father. At the ending father leads along the same path, son follows several steps behind. Father never turns back during praise or thanks. Son looks ALONG the path toward father, not backward toward camera. Maintain soft daylight, clothing, ages, backpack and landmarks. No new people, weapon use, wounds or extra attacks. The faint air streak appears ONLY in the attack frame, nowhere else.\n\nCURRENT SHOT 10: MS. Waist to head.\nCamera: 검우진의 정면 사선 눈높이. Planned movement: 고정; depict one still view only.\nExact current representative instant: 검우진이 아들을 향해 몸을 둔 채 담담한 얼굴로 말하고 있다.\nCurrent event context: 검우진의 허리 위를 담는다. 검우진은 아들을 보며 말이 사실이면 피했을 것이고 거짓말이면 값을 치렀을 것이라고 답한다.\nContinuity production state for THIS instant: Father still stopped right facing son left, hands lowered, calm response. No air streak or backpack.\n\nPREVIOUS instant, context ONLY, do not draw it again: 검무극이 손을 볼에 댄 채 아버지를 향해 입을 열고 있다. 볼에는 상처나 피가 없고 어깨에는 배낭 끈이 걸려 있다.\nNEXT instant, context ONLY, do not jump ahead or combine it: 검무극이 상처 없는 볼에 손을 얹고 아버지를 바라보며 말하고 있다. 어깨 뒤에는 배낭이 보인다.\nRender ONLY the current instant. Preserve anatomical sides, object ownership and the specified crop. A close-up is allowed to omit off-frame objects; do not force the entire scene into every shot.",
+      "seed": 0
+    }
+  },
+  "G3": {
+    "_meta": {
+      "title": "RET-P01-S-C011"
+    },
+    "class_type": "OpenAIGPTImageNodeV2",
+    "inputs": {
+      "model": "gpt-image-2.5-sunburst",
+      "model.background": "opaque",
+      "model.custom_height": 864,
+      "model.custom_width": 1536,
+      "model.images.image_1": [
+        "L1",
+        0
+      ],
+      "model.images.image_2": [
+        "L2",
+        0
+      ],
+      "model.quality": "medium",
+      "model.size": "Custom",
+      "n": 1,
+      "prompt": "Draw ONE continuous monochrome graphite-and-ink storyboard frame, one camera view, one instant. No labels, dialogue, captions, text, panels, collage, contact sheet or multiple temporal stages. Preserve character identity from attached sheets, but never copy the sheet layout. The LAST reference is the shared clean environment: preserve geography/materials, change crop and camera according to this shot. Use readable restrained gray values; cave remains dark, mountain daylight remains soft.\n\nReference order: 1=RET-P01-geom-mugeuk, 2=RET-P01-stage\nVisible identities or body parts permitted in THIS frame: son. Other characters may exist outside frame but must not be added.\n\nShared scene geography, binding across the whole sequence: the same mountain path with forked pine, low rounded boulder and rocky bank from the clean stage reference. Travel follows the path from lower left toward upper right distance. In stopped two-shots SON Geom Mugeuk is on the LEFT, FATHER Geom Ujin on the RIGHT. Father faces left toward son; son faces right toward father. Keep camera on the valley/near side of the relationship axis; camera may move between side, three-quarter front and rear within that side, but do not mirror their world positions. Father has no backpack; son wears the SAME large hunting backpack throughout. When father turns partly to leave then asks another question, their feet remain on the same stopping patch. Finger attack is father's anatomical RIGHT index finger; it passes immediately beside son's anatomical RIGHT cheek, never through skin. Son turns his face away from the air line, cheek stays uninjured. Father lowers attacking hand by his reaction shot. Son touches that same RIGHT cheek with his RIGHT hand through protest and joke. He lowers the hand before following father. At the ending father leads along the same path, son follows several steps behind. Father never turns back during praise or thanks. Son looks ALONG the path toward father, not backward toward camera. Maintain soft daylight, clothing, ages, backpack and landmarks. No new people, weapon use, wounds or extra attacks. The faint air streak appears ONLY in the attack frame, nowhere else.\n\nCURRENT SHOT 11: MCU. Chest to head.\nCamera: 검무극의 전측면 눈높이. Planned movement: 고정; depict one still view only.\nExact current representative instant: 검무극이 상처 없는 볼에 손을 얹고 아버지를 바라보며 말하고 있다. 어깨 뒤에는 배낭이 보인다.\nCurrent event context: 검무극의 가슴 위를 담는다. 볼에 손을 댄 검무극이 아버지를 닮은 얼굴에 흉터가 나면 아깝지 않겠느냐고 농담한다.\nContinuity production state for THIS instant: Son stays left facing father right; RIGHT hand touches same uninjured RIGHT cheek. Same cheek through protest and joke, backpack stays worn. No air streak.\n\nPREVIOUS instant, context ONLY, do not draw it again: 검우진이 아들을 향해 몸을 둔 채 담담한 얼굴로 말하고 있다.\nNEXT instant, context ONLY, do not jump ahead or combine it: 검우진이 아들에게서 몸을 돌린 채 산길 앞으로 한 발을 내딛고 있다.\nRender ONLY the current instant. Preserve anatomical sides, object ownership and the specified crop. A close-up is allowed to omit off-frame objects; do not force the entire scene into every shot.",
+      "seed": 0
+    }
+  },
+  "G4": {
+    "_meta": {
+      "title": "RET-P01-S-C012"
+    },
+    "class_type": "OpenAIGPTImageNodeV2",
+    "inputs": {
+      "model": "gpt-image-2.5-sunburst",
+      "model.background": "opaque",
+      "model.custom_height": 864,
+      "model.custom_width": 1536,
+      "model.images.image_1": [
+        "L3",
+        0
+      ],
+      "model.images.image_2": [
+        "L2",
+        0
+      ],
+      "model.quality": "medium",
+      "model.size": "Custom",
+      "n": 1,
+      "prompt": "Draw ONE continuous monochrome graphite-and-ink storyboard frame, one camera view, one instant. No labels, dialogue, captions, text, panels, collage, contact sheet or multiple temporal stages. Preserve character identity from attached sheets, but never copy the sheet layout. The LAST reference is the shared clean environment: preserve geography/materials, change crop and camera according to this shot. Use readable restrained gray values; cave remains dark, mountain daylight remains soft.\n\nReference order: 1=RET-P01-geom-ujin, 2=RET-P01-stage\nVisible identities or body parts permitted in THIS frame: father. Other characters may exist outside frame but must not be added.\n\nShared scene geography, binding across the whole sequence: the same mountain path with forked pine, low rounded boulder and rocky bank from the clean stage reference. Travel follows the path from lower left toward upper right distance. In stopped two-shots SON Geom Mugeuk is on the LEFT, FATHER Geom Ujin on the RIGHT. Father faces left toward son; son faces right toward father. Keep camera on the valley/near side of the relationship axis; camera may move between side, three-quarter front and rear within that side, but do not mirror their world positions. Father has no backpack; son wears the SAME large hunting backpack throughout. When father turns partly to leave then asks another question, their feet remain on the same stopping patch. Finger attack is father's anatomical RIGHT index finger; it passes immediately beside son's anatomical RIGHT cheek, never through skin. Son turns his face away from the air line, cheek stays uninjured. Father lowers attacking hand by his reaction shot. Son touches that same RIGHT cheek with his RIGHT hand through protest and joke. He lowers the hand before following father. At the ending father leads along the same path, son follows several steps behind. Father never turns back during praise or thanks. Son looks ALONG the path toward father, not backward toward camera. Maintain soft daylight, clothing, ages, backpack and landmarks. No new people, weapon use, wounds or extra attacks. The faint air streak appears ONLY in the attack frame, nowhere else.\n\nCURRENT SHOT 12: FS. Whole body head to feet.\nCamera: 산길 옆에서 바라본 눈높이. Planned movement: 고정; depict one still view only.\nExact current representative instant: 검우진이 아들에게서 몸을 돌린 채 산길 앞으로 한 발을 내딛고 있다.\nCurrent event context: 검우진을 머리부터 발까지 담는다. 검우진이 코웃음을 치고 몸을 돌려 다시 산길을 걷기 시작한다.\nContinuity production state for THIS instant: Father turns forward RIGHT along original trail and takes first step away; son outside frame left remains stopped for this instant. No air streak.\n\nPREVIOUS instant, context ONLY, do not draw it again: 검무극이 상처 없는 볼에 손을 얹고 아버지를 바라보며 말하고 있다. 어깨 뒤에는 배낭이 보인다.\nNEXT instant, context ONLY, do not jump ahead or combine it: 검무극이 입술을 다문 채 앞서 간 아버지 쪽을 바라보고 있다. 배낭 끈이 걸린 어깨가 긴장되어 있다.\nRender ONLY the current instant. Preserve anatomical sides, object ownership and the specified crop. A close-up is allowed to omit off-frame objects; do not force the entire scene into every shot.",
+      "seed": 0
+    }
+  },
+  "L1": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "db0db11144be9fbc951dbfa31dac74f6a480487c167a7e66686d7219d8b2de87.png"
+    },
+    "is_changed": [
+      "7506cc4fcc29d77e009dcab103f66df937fcaf50f01d521c123f5811efae5d10"
+    ]
+  },
+  "L2": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "6aa4ebde0707521f179092c4a9547e5675d298dd05a8d7b0bc956dacc77f02ff.png"
+    },
+    "is_changed": [
+      "eda1a05e644f4dc36b811942fcc27dbdd9aec04f0f239fdc47a66c720b6fa56d"
+    ]
+  },
+  "L3": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "b0fa297f88c61591eddfcb9cc377acb34095ffa7aeffd3b94729d29b4166afa6.png"
+    },
+    "is_changed": [
+      "4fd344da4c2265d2837df13f9e09f36ed8afa5f845711e7ad46f207a5cfbb96e"
+    ]
+  },
+  "S1": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "filename_prefix": "continuity-v2-RET-P01-S-C009",
+      "images": [
+        "G1",
+        0
+      ]
+    }
+  },
+  "S2": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "filename_prefix": "continuity-v2-RET-P01-S-C010",
+      "images": [
+        "G2",
+        0
+      ]
+    }
+  },
+  "S3": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "filename_prefix": "continuity-v2-RET-P01-S-C011",
+      "images": [
+        "G3",
+        0
+      ]
+    }
+  },
+  "S4": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "filename_prefix": "continuity-v2-RET-P01-S-C012",
+      "images": [
+        "G4",
+        0
+      ]
+    }
+  }
+}

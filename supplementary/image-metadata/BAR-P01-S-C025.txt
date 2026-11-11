@@ -1,0 +1,16 @@
+Draw ONE continuous monochrome graphite-and-ink storyboard frame, one camera view, one instant. No labels, dialogue, captions, text, panels, collage, contact sheet or multiple temporal stages. Preserve character identity from attached sheets, but never copy the sheet layout. The LAST reference is the shared clean environment: preserve geography/materials, change crop and camera according to this shot. Use readable restrained gray values; cave remains dark, mountain daylight remains soft.
+
+Reference order: 1=BAR-P01-bjorn, 2=BAR-P01-stage
+Visible identities or body parts permitted in THIS frame: bjorn. Other characters may exist outside frame but must not be added.
+
+Shared scene geography, binding across the whole sequence: the same cave floor, low forehead boulder and far-wall crystal cluster from the clean stage image. In wide side views Bjorn occupies the left and the goblin approaches from the deeper passage at right, moving right-to-left. Keep the camera on the near side of their action axis; close-ups may crop or change elevation, but never mirror anatomy or swap world positions. After the takedown they remain on the SAME patch of floor, goblin supine with head to the right and feet to the left, Bjorn straddling its waist, both knees grounded. Do not shift the fight to another tunnel. Shield is Bjorn's ONE round wooden shield from his sheet; held in his LEFT hand initially, then rests at its original fall location just behind his left side near the low boulder for the rest of the scene. It is not strapped to his arm during the fight. RIGHT foot stays injured and cloth-wrapped; no healing, new weapon, extra goblin or extra prop. Right-hand grab is of the goblin's anatomical LEFT forearm, not screen-left arm. Release the grab when settling into the mounted position before punching; thereafter left hand braces torso and RIGHT fist attacks. After death left forearm begins dissolving, followed by remaining body; already dissolved parts never return. Exactly ONE small magic stone appears only after complete disappearance, is picked up in RIGHT hand and remains there. No magic stone in earlier moments. Time moves forward without a new location, lighting change or restart.
+
+CURRENT SHOT 25: FS. Whole body head to feet.
+Camera: 바닥에 남은 비요른을 보는 측면의 약간 높은 시점. Planned movement: 고정; depict one still view only.
+Exact current representative instant: 비요른이 바닥에 머문 채 손안의 작은 마석을 내려다본다. 다친 오른발의 천 붕대와 옆에 놓인 방패가 보인다.
+Current event context: 비요른이 마석을 손에 쥔 채 그 자리에 남아 있다. 전신과 곁의 방패, 피가 배어 있는 오른발의 천 붕대가 함께 보인다. 게임을 닮았어도 현실이라는 내면이 흐른다.
+Continuity production state for THIS instant: Same kneeling location, knees grounded and body bowed; RIGHT hand holds ONE small stone, injured RIGHT foot persists, shield stationary behind near boulder. Goblin completely gone. Same cracked floor patch; do not add victory pose.
+
+PREVIOUS instant, context ONLY, do not draw it again: 비요른의 시선은 아래로 떨어져 있고 입가에는 웃음이 걸려 있다. 숨을 들이쉬는 어깨가 올라가 있다.
+NEXT instant, context ONLY, do not jump ahead or combine it: 넓은 어둠 속 바닥에 비요른이 작게 머물러 있고 곁에는 방패가 놓여 있다. 손안의 마석만 희미한 빛을 낸다.
+Render ONLY the current instant. Preserve anatomical sides, object ownership and the specified crop. A close-up is allowed to omit off-frame objects; do not force the entire scene into every shot.

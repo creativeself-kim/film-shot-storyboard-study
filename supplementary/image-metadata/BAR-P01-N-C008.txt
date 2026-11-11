@@ -1,0 +1,16 @@
+Draw ONE continuous monochrome graphite-and-ink storyboard frame, one camera view, one instant. No labels, dialogue, captions, text, panels, collage, contact sheet or multiple temporal stages. Preserve character identity from attached sheets, but never copy the sheet layout. The LAST reference is the shared clean environment: preserve geography/materials, change crop and camera according to this shot. Use readable restrained gray values; cave remains dark, mountain daylight remains soft.
+
+Reference order: 1=BAR-P01-bjorn, 2=BAR-P01-stage
+Visible identities or body parts permitted in THIS frame: bjorn. Other characters may exist outside frame but must not be added.
+
+Shared scene geography, binding across the whole sequence: the same cave floor, low forehead boulder and far-wall crystal cluster from the clean stage image. In wide side views Bjorn occupies the left and the goblin approaches from the deeper passage at right, moving right-to-left. Keep the camera on the near side of their action axis; close-ups may crop or change elevation, but never mirror anatomy or swap world positions. After the takedown they remain on the SAME patch of floor, goblin supine with head to the right and feet to the left, Bjorn straddling its waist, both knees grounded. Do not shift the fight to another tunnel. Shield is Bjorn's ONE round wooden shield from his sheet; held in his LEFT hand initially, then rests at its original fall location just behind his left side near the low boulder for the rest of the scene. It is not strapped to his arm during the fight. RIGHT foot stays injured and cloth-wrapped; no healing, new weapon, extra goblin or extra prop. Right-hand grab is of the goblin's anatomical LEFT forearm, not screen-left arm. Release the grab when settling into the mounted position before punching; thereafter left hand braces torso and RIGHT fist attacks. After death left forearm begins dissolving, followed by remaining body; already dissolved parts never return. Exactly ONE small magic stone appears only after complete disappearance, is picked up in RIGHT hand and remains there. No magic stone in earlier moments. Time moves forward without a new location, lighting change or restart.
+
+CURRENT SHOT 8: MCU. Chest to head.
+Camera: 비요른의 가슴 위를 보는 전측면. Planned movement: 고정; depict one still view only.
+Exact current representative instant: 비요른이 상체를 앞으로 내민 채 화면 바깥으로 오른팔을 뻗고 있다. 얼굴은 팔이 향한 쪽으로 돌아가 있다.
+Current event context: 손을 뻗은 비요른의 상체가 앞으로 기울어 있다. 닿지 않은 순간의 얼굴에 판단이 스친다.
+Continuity production state for THIS instant: Bjorn leans toward right, RIGHT arm still extended off frame after missing. He is not standing upright relaxed. No magic stone or dissolving dust; the ordinary thrown rock, if already landed, stays at its original landing point.
+
+PREVIOUS instant, context ONLY, do not draw it again: 몸을 일으킨 비요른의 오른팔이 고블린을 향해 뻗어 있다. 고블린은 허리를 뒤로 젖혔고 손끝과 몸 사이에는 분명한 틈이 남아 있다. 두 인물의 전신이 보인다.
+NEXT instant, context ONLY, do not jump ahead or combine it: 비요른의 오른손이 고블린의 왼팔을 단단히 감싸고 있다. 두 팔의 접촉 부위가 화면 중심에 놓인다.
+Render ONLY the current instant. Preserve anatomical sides, object ownership and the specified crop. A close-up is allowed to omit off-frame objects; do not force the entire scene into every shot.

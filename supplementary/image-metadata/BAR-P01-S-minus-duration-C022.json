@@ -1,0 +1,90 @@
+{
+  "G1": {
+    "_meta": {
+      "title": "BAR-P01-S-minus-duration-C021"
+    },
+    "class_type": "OpenAIGPTImageNodeV2",
+    "inputs": {
+      "model": "gpt-image-2.5-sunburst",
+      "model.background": "opaque",
+      "model.custom_height": 864,
+      "model.custom_width": 1536,
+      "model.images.image_1": [
+        "L1",
+        0
+      ],
+      "model.images.image_2": [
+        "L2",
+        0
+      ],
+      "model.quality": "medium",
+      "model.size": "Custom",
+      "n": 1,
+      "prompt": "Draw ONE continuous monochrome graphite-and-ink storyboard frame, one camera view, one instant. No labels, dialogue, captions, text, panels, collage, contact sheet or multiple temporal stages. Preserve character identity from attached sheets, but never copy the sheet layout. The LAST reference is the shared clean environment: preserve geography/materials, change crop and camera according to this shot. Use readable restrained gray values; cave remains dark, mountain daylight remains soft.\n\nReference order: 1=BAR-P01-bjorn, 2=BAR-P01-stage\nVisible identities or body parts permitted in THIS frame: bjorn. Other characters may exist outside frame but must not be added.\n\nShared scene geography, binding across the whole sequence: the same cave floor, low forehead boulder and far-wall crystal cluster from the clean stage image. In wide side views Bjorn occupies the left and the goblin approaches from the deeper passage at right, moving right-to-left. Keep the camera on the near side of their action axis; close-ups may crop or change elevation, but never mirror anatomy or swap world positions. After the takedown they remain on the SAME patch of floor, goblin supine with head to the right and feet to the left, Bjorn straddling its waist, both knees grounded. Do not shift the fight to another tunnel. Shield is Bjorn's ONE round wooden shield from his sheet; held in his LEFT hand initially, then rests at its original fall location just behind his left side near the low boulder for the rest of the scene. It is not strapped to his arm during the fight. RIGHT foot stays injured and cloth-wrapped; no healing, new weapon, extra goblin or extra prop. Right-hand grab is of the goblin's anatomical LEFT forearm, not screen-left arm. Release the grab when settling into the mounted position before punching; thereafter left hand braces torso and RIGHT fist attacks. After death left forearm begins dissolving, followed by remaining body; already dissolved parts never return. Exactly ONE small magic stone appears only after complete disappearance, is picked up in RIGHT hand and remains there. No magic stone in earlier moments. Time moves forward without a new location, lighting change or restart.\n\nCURRENT SHOT 21: MCU. Chest to head.\nCamera: 비요른 얼굴과 가슴을 보는 측면 사선. Planned movement: 고정. 호흡에 따른 어깨 움직임을 읽는다.; depict one still view only.\nExact current representative instant: 비요른이 아래를 향한 얼굴로 입을 조금 벌리고 있으며, 숨을 들이켜 어깨가 올라가 있다.\nCurrent event context: 마석을 내려다보던 비요른에게서 웃음이 새어 나온다. 가슴과 어깨가 거친 숨에 들썩이고, 그 사이로 허탈한 웃음이 이어진다.\nContinuity production state for THIS instant: Same kneeling pose, RIGHT hand still holds ONE stone below crop, downward gaze, exhausted hollow laugh rather than celebration. No goblin.\n\nPREVIOUS instant, context ONLY, do not draw it again: 비요른이 작은 마석을 손에 든 채 눈을 아래로 떨구고 있다.\nNEXT instant, context ONLY, do not jump ahead or combine it: 비요른이 바닥에 낮게 머무르며 마석을 쥐고 있고, 피가 밴 오른발 붕대와 옆에 놓인 방패가 함께 보인다.\nRender ONLY the current instant. Preserve anatomical sides, object ownership and the specified crop. A close-up is allowed to omit off-frame objects; do not force the entire scene into every shot.",
+      "seed": 0
+    }
+  },
+  "G2": {
+    "_meta": {
+      "title": "BAR-P01-S-minus-duration-C022"
+    },
+    "class_type": "OpenAIGPTImageNodeV2",
+    "inputs": {
+      "model": "gpt-image-2.5-sunburst",
+      "model.background": "opaque",
+      "model.custom_height": 864,
+      "model.custom_width": 1536,
+      "model.images.image_1": [
+        "L1",
+        0
+      ],
+      "model.images.image_2": [
+        "L2",
+        0
+      ],
+      "model.quality": "medium",
+      "model.size": "Custom",
+      "n": 1,
+      "prompt": "Draw ONE continuous monochrome graphite-and-ink storyboard frame, one camera view, one instant. No labels, dialogue, captions, text, panels, collage, contact sheet or multiple temporal stages. Preserve character identity from attached sheets, but never copy the sheet layout. The LAST reference is the shared clean environment: preserve geography/materials, change crop and camera according to this shot. Use readable restrained gray values; cave remains dark, mountain daylight remains soft.\n\nReference order: 1=BAR-P01-bjorn, 2=BAR-P01-stage\nVisible identities or body parts permitted in THIS frame: bjorn. Other characters may exist outside frame but must not be added.\n\nShared scene geography, binding across the whole sequence: the same cave floor, low forehead boulder and far-wall crystal cluster from the clean stage image. In wide side views Bjorn occupies the left and the goblin approaches from the deeper passage at right, moving right-to-left. Keep the camera on the near side of their action axis; close-ups may crop or change elevation, but never mirror anatomy or swap world positions. After the takedown they remain on the SAME patch of floor, goblin supine with head to the right and feet to the left, Bjorn straddling its waist, both knees grounded. Do not shift the fight to another tunnel. Shield is Bjorn's ONE round wooden shield from his sheet; held in his LEFT hand initially, then rests at its original fall location just behind his left side near the low boulder for the rest of the scene. It is not strapped to his arm during the fight. RIGHT foot stays injured and cloth-wrapped; no healing, new weapon, extra goblin or extra prop. Right-hand grab is of the goblin's anatomical LEFT forearm, not screen-left arm. Release the grab when settling into the mounted position before punching; thereafter left hand braces torso and RIGHT fist attacks. After death left forearm begins dissolving, followed by remaining body; already dissolved parts never return. Exactly ONE small magic stone appears only after complete disappearance, is picked up in RIGHT hand and remains there. No magic stone in earlier moments. Time moves forward without a new location, lighting change or restart.\n\nCURRENT SHOT 22: FS. Whole body head to feet.\nCamera: 비요른의 전신을 보는 측면 하이 앵글. Planned movement: 고정. 손의 마석, 다친 오른발, 곁의 방패를 한 프레임에 둔다.; depict one still view only.\nExact current representative instant: 비요른이 바닥에 낮게 머무르며 마석을 쥐고 있고, 피가 밴 오른발 붕대와 옆에 놓인 방패가 함께 보인다.\nCurrent event context: 비요른은 마석을 손에 쥔 채 바닥의 그 자리에 남아 있다. 머리부터 발까지 보이며 오른발에는 여전히 피가 밴 천이 감겨 있다. 곁에는 방패가 놓여 있다. 게임을 닮았어도 자신이 겪는 일은 현실이라는 생각이 흐른다.\nContinuity production state for THIS instant: Same kneeling location, knees grounded and body bowed; RIGHT hand holds ONE small stone, injured RIGHT foot persists, shield stationary behind near boulder. Goblin completely gone. Same cracked floor patch; do not add victory pose.\n\nPREVIOUS instant, context ONLY, do not draw it again: 비요른이 아래를 향한 얼굴로 입을 조금 벌리고 있으며, 숨을 들이켜 어깨가 올라가 있다.\nNEXT instant, context ONLY, do not jump ahead or combine it: Scene ends. Do not invent subsequent action.\nRender ONLY the current instant. Preserve anatomical sides, object ownership and the specified crop. A close-up is allowed to omit off-frame objects; do not force the entire scene into every shot.",
+      "seed": 0
+    }
+  },
+  "L1": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "bd2ce0b17fc87c9087eb68e28e76edf12f06f3c52e49146366091976b12f2032.png"
+    },
+    "is_changed": [
+      "6a819feff944ac5b3395c56625ba4ee13a5617b3f293237045eda4e7c9f361c8"
+    ]
+  },
+  "L2": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "e4ebef94c4d4a15d690518f6b0f171b3cd14b1b2025debb28e659dc08d886ad7.png"
+    },
+    "is_changed": [
+      "83368f76cd5539f5c6fbd219b3b343ea47bc272d28e221d4133fc135717c407b"
+    ]
+  },
+  "S1": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "filename_prefix": "continuity-v2-BAR-P01-S-minus-duration-C021",
+      "images": [
+        "G1",
+        0
+      ]
+    }
+  },
+  "S2": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "filename_prefix": "continuity-v2-BAR-P01-S-minus-duration-C022",
+      "images": [
+        "G2",
+        0
+      ]
+    }
+  }
+}

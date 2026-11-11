@@ -1,0 +1,41 @@
+{
+  "archives": [
+    {
+      "archive": "bar-p01-n-original-cuts.zip",
+      "sha256": "f182090913e5906c17d9b3673a82468fcfde359426c03568691b9f2d75f90c57"
+    },
+    {
+      "archive": "bar-p01-s-minus-duration-original-cuts.zip",
+      "sha256": "29c7149c789f48e1ad2f48ae5fbbb625cba2a866522b3f89d5cb1ea6e57f2bb4"
+    },
+    {
+      "archive": "bar-p01-s-minus-transition-original-cuts.zip",
+      "sha256": "de5661c06bc953c0710aa3fe874fb0d9932055cb8cf22c7855bcce737dd6b874"
+    },
+    {
+      "archive": "bar-p01-s-original-cuts.zip",
+      "sha256": "902293c402eadab3c2cd70753b9a7676ec8ef3e04313040578d5bb7bbb0b670a"
+    },
+    {
+      "archive": "ret-p01-n-original-cuts.zip",
+      "sha256": "5171846744da18a96fcd1956ff69c81e1b2c9e3dd5ea01f48119f59cfbb7db9f"
+    },
+    {
+      "archive": "ret-p01-s-minus-duration-original-cuts.zip",
+      "sha256": "962f20744c4b1dd9d6ec1d3a7ee8b051fd2f6a4acd6ecec6275befbb111ce640"
+    },
+    {
+      "archive": "ret-p01-s-minus-transition-original-cuts.zip",
+      "sha256": "723377deaf4b5bf684343c12db142ea1942aa8000f64b0d2f559a9f4dde021f8"
+    },
+    {
+      "archive": "ret-p01-s-original-cuts.zip",
+      "sha256": "31e7199ed3736210feadf0e16d6e7b568313705ab470739874a913681a9f6c09"
+    }
+  ],
+  "images_checked": 157,
+  "catalog_exact_matches": 157,
+  "prompt_file_matches_ignoring_outer_whitespace": 157,
+  "all_members_under_v2": true,
+  "interpretation": "Embedded metadata corroborates the archived final-generation inputs; it does not recover first-generation inputs or independently authenticate backend execution."
+}

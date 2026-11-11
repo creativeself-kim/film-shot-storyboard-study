@@ -1,17 +1,19 @@
-# 본문 최소 보완안과 심사 답변 초안
+# Proposed manuscript addition and response to Reviewer Comment 2
 
-## 본문 3.1 보완안
+## Proposed addition to Section 3.1
 
-보충자료 S에는 조건별 제작 컷 수, 보완 유형, N/S 전체의 구성표와 최종 상태 지시, 최종 프롬프트 및 실행 기록을 제시한다. 확인한 보존 자료에서는 1차 이미지 프롬프트를 찾지 못해, 수정 전후 프롬프트 쌍과 유형별 실제 수정 컷 수는 제시하지 못하였다. 따라서 재제작 컷 수와 프롬프트 수정 컷 수를 구분하였다.
+Supplement S provides production counts by condition, categories of refinement, original shot-plan descriptions and final state instructions for all N/S cuts, final image-generation prompts, and execution records. Final prompts were extracted from the metadata of all 157 archived images and matched the corresponding catalog entries exactly. First-generation image prompts have not been located in the examined materials; consequently, complete before-and-after prompt comparisons and verified counts of edited cuts by revision type are unavailable. Re-production counts are therefore distinguished from prompt-edit counts.
 
-## 심사 의견 2 답변 초안
+## Response draft
 
-제작자의 자세·접촉 상태·중간 행동 보완이 지각된 사건 연결 명확성에 영향을 줄 수 있다는 지적을 수용합니다. 제작자가 조건을 알고 작업하였음을 본문에 명시하고, 보충자료 S에 조건별 제작 현황, 보완 유형, N/S 전체 78컷의 구성표·최종 상태 지시와 최종 프롬프트를 정리하였습니다. 보존된 기록에 따르면 N/S 78장은 제작 규칙 보완 후 다시 제작하였고, S−T·S−D 79장은 해당 규칙으로 처음 제작하였습니다. 이 숫자는 제작 대상 수이며, 수정 전후 비교로 확인한 수정 컷 수와 구분하였습니다.
+We agree that the creator's refinements to poses, contact states and intermediate actions could influence perceived event-linkage clarity. We disclose that the creator knew the condition labels and provide Supplement S documenting production counts, refinement categories, and the shot plans, final state instructions and final prompts for all 78 N/S cuts. The preserved production records describe re-production of all 78 N/S images after refinement of the shared production rules, whereas the 79 S−T/S−D images were first produced using those rules. These counts describe production scope, not the number of prompts demonstrably edited between versions.
 
-확인한 자료 묶음에서는 1차 이미지 프롬프트를 찾지 못하여 요청하신 수정 전후 프롬프트 쌍 및 유형별 실제 수정 컷 수를 완전하게 제시하지 못했습니다. 이를 명시하고, 확인 가능한 공통 규칙과 컷별 최종 지시를 제공하였습니다. 원고에서 예로 든 BAR-P01 S 12번과 동일 사건의 N 9번에는 해부학적 좌우와 접촉 상태, 이후 사건의 소품·흔적 배제에 관한 동일한 상태 지시가 사용되었습니다. 다만 이 사례나 공통 규칙의 적용이 제작자 보완의 영향이 조건 간 동일했음을 뜻하지는 않습니다.
+To verify the final inputs, we extracted the image-generation prompts from the metadata of all 157 archived PNGs. Each matched its corresponding catalog entry exactly. The archived images belong to the revised v2 production set. First-generation prompts have not been located, so we cannot provide complete before-and-after prompt pairs or verified revision counts by type. We state this limitation explicitly rather than treating the original shot plans as earlier image prompts.
 
-실행 기록상 N/S 구성표는 2026년 9월 16일 macOS 계열 경로에서, S−T·S−D는 9월 18일 Windows 경로에서 생성되었습니다. 요청 모델과 추론 설정은 같지만 모델 스냅샷의 동일성은 확인할 수 없습니다. 환경 차이는 주 평가인 N/S 비교와 보조 분석을 구분하여 해석하였습니다. 최종 결과를 제작자 보완을 포함한 해당 제작·평가 조건에서 지각된 명확성의 차이로 한정하고, 영화 통계만의 인과적 효과로 해석하지 않았습니다.
+For the example discussed in the manuscript, BAR-P01 S cut 12 and the corresponding N cut 9 received identical final state instructions specifying anatomical sides and contact and excluding props or traces from later events. This demonstrates a shared instruction for that event; neither this example nor the common rules establishes equal effects of creator refinement across conditions.
 
-## 제출 전 확인
+The execution records place N/S plan generation on September 16, 2026, with macOS-style executable paths, and S−T/S−D generation on September 18 with Windows paths. The requested model and reasoning settings were the same, but model-snapshot identity could not be verified. We distinguish the primary N/S comparison from the auxiliary ablation comparisons when discussing these differences. Results are interpreted as perceived-clarity differences between fixed outputs of the complete production workflow, including creator refinement, rather than as an isolated causal effect of film statistics.
 
-이 초안의 “정리하였습니다”는 현재 비공개 저장소에 자료가 작성된 상태를 가리킨다. 실제 심사 제출 시 보충자료 첨부와 접근 권한을 확인한다. 1차 프롬프트가 추가 확보되면 미확인 설명과 관련 표를 갱신한다. 원고의 CLI 버전은 별도 버전 기록과 대조한 뒤 확정한다.
+## Submission note
+
+The supplement has been prepared in a private repository. Confirm reviewer access or attachment before submission. Independently confirm manuscript CLI version numbers against a preserved version record. If earlier images or prompts are subsequently located, update the availability statement and revision tables.

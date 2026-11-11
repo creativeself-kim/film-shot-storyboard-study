@@ -1,18 +1,18 @@
-# 지각된 명확성 평가 수집 자료
+# Collected perceived-clarity ratings
 
-2026-09-22에 연구자가 현재 폴더의 자료가 실제 전문가 30명의 수집 데이터이며, 참여자가 생성형 AI 콘텐츠 제작 경험을 가진 전문가임을 확인하였다. 이전 파일의 합성 데이터 및 가상 전문가 설명은 잘못 작성된 메타데이터라는 연구자 설명에 따라 정정하였다. 이 확인은 연구자의 진술이며 외부 기관의 독립 검증을 뜻하지 않는다.
+The author confirmed that this dataset contains actual responses from 30 participants with generative-AI production experience; this was reconfirmed on November 11, 2026. Earlier synthetic/persona descriptions were erroneous metadata according to the author. This provenance statement is not an independent audit of recruitment or data collection.
 
-- `responses.csv`: 30명의 두 장면 응답 60건. 이번 원고 반영에서 ID, 배정, 제시 순서 및 Q1–Q4 점수는 변경하지 않았다.
-- `participants.csv`: 가상 인물 설명을 실제 참여자 배경으로 정정했다. `persona_assumption`은 `participant_background`로, `experience_verified`는 `experience_author_confirmed`로 바꾸어 확인의 주체를 명시했다. 기존 `SIM-POS-*` ID는 응답과의 연결을 보존하기 위해 그대로 유지했다. ID 접두사는 자료의 합성 여부를 뜻하지 않는다.
-- `summary.csv`: 원응답에서 다시 계산한 평균과 표본 표준편차. `simulated_n` 열은 실제 응답 수를 뜻하는 `n`으로 정정했다.
-- `analysis.json`: 응답 분포, 배정군 크기, 원자료 해시, Q1 차이와 참여자 단위 층화 부트스트랩 신뢰구간을 기록했다. 이전의 합성 결과 해석은 연구자의 확인과 재계산 결과로 대체했다.
+- `responses.csv`: 60 responses, two scenes per participant. IDs, assignments, presentation order and Q1–Q4 scores have not been changed during this repository preparation.
+- `participants.csv`: participant metadata. Legacy `SIM-POS-*` identifiers are retained to preserve links between files; the prefix does not indicate synthetic observations. Background and experience statements reflect the author's confirmation.
+- `summary.csv`: means and sample standard deviations recomputed from response records. The legacy `simulated_n` field was previously corrected to `n`.
+- `analysis.json`: distributions, allocation strata, source hashes, Q1 differences and participant-level stratified bootstrap intervals. Its earlier provenance timestamp is retained as part of the imported record.
 
-재계산 명령(저장소 루트에서 실행):
+From the repository root, run:
 
-```powershell
-python evaluation/perceived-clarity-study/analyze_collected_data.py
+```sh
+python3 evaluation/perceived-clarity-study/analyze_collected_data.py
 ```
 
-표준 라이브러리만 사용한다. Q1을 주 문항으로 유지하며, NN·NS·SN·SS 조건 조합과 장면 순서의 8개 군 안에서 참여자를 재표집한다. 한 참여자의 두 응답은 항상 함께 유지한다. 20,000회 재표집, 시드 20260922, 백분위수 95% 구간을 사용한다. 백분위수 부트스트랩의 일반 원리는 [SciPy 공식 문서](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.bootstrap.html)를 참고할 수 있으나, 이 분석은 SciPy를 사용하지 않고 군별 재표집을 직접 구현한다. 재표집 횟수·시드·구간 방식은 이번 분석에서 명시한 것으로, 사전등록된 설정으로 주장하지 않는다.
+The implementation uses the Python standard library, resampling participants within eight condition-combination/order strata and retaining both scene responses together. It uses 20,000 bootstrap resamples, seed 20260922 and percentile 95% intervals. These settings are documented analysis choices, not a claim of preregistration.
 
-모집 경로·기간·보상, 경력 연수와 자격 기준, 실제 배포 화면과 무작위 배정 실행 기록, 작품 친숙도, 동의 및 기관 연구윤리 절차는 제공 파일에서 확인되지 않았다. 원고의 해당 정보는 제출 전에 실제 시행 기록으로 보완해야 한다. 계획서의 무작위 배정과 조건 비공개 지시를 실제 수행 사실로 자동 전환하지 않았다.
+Recruitment records, compensation, consent documentation and institutional ethics records are not included here. Protocol descriptions alone do not independently verify implementation. Human participant ratings should not be confused with model-assisted production observations elsewhere in the project.
