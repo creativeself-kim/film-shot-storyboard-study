@@ -1,0 +1,63 @@
+{
+  "id": "BAR-P01-S-minus-duration",
+  "scene_id": "BAR-P01",
+  "arm": "S-minus-duration",
+  "removed_fields": [
+    "shot_duration_quantiles_seconds",
+    "pooled_shot_mean_seconds",
+    "sequence_asl_median_seconds",
+    "sequence_length_cv_median"
+  ],
+  "request_sha256": "f32d48c13d6290b593e38b269b0281fe4a0aaef49cd7ce77012271ea96f62ebf",
+  "target_seconds": 100,
+  "started_at": "2026-09-18T03:59:35.005008+00:00",
+  "argv": [
+    "C:\\Users\\KIM-JUNGHO\\AppData\\Local\\Programs\\OpenAI\\Codex\\bin\\codex.EXE",
+    "exec",
+    "--ignore-user-config",
+    "--ephemeral",
+    "--skip-git-repo-check",
+    "--sandbox",
+    "read-only",
+    "--model",
+    "gpt-6-astra",
+    "-c",
+    "model_reasoning_effort=\"medium\"",
+    "-c",
+    "web_search=\"disabled\"",
+    "--disable",
+    "shell_tool",
+    "--disable",
+    "unified_exec",
+    "--disable",
+    "multi_agent",
+    "--disable",
+    "apps",
+    "--disable",
+    "memories",
+    "--disable",
+    "plugins",
+    "--output-schema",
+    "D:\\paper\\cut-rhythm-paper\\evaluation\\novel-ablation-v1\\output-schema.json",
+    "--json",
+    "-o",
+    "D:\\paper\\cut-rhythm-paper\\evaluation\\novel-ablation-v1\\runs\\BAR-P01-S-minus-duration.json",
+    "-"
+  ],
+  "cwd": "C:\\Users\\KIM-JU~1\\AppData\\Local\\Temp\\novel-breakdown-eaw9frny",
+  "attempts": [
+    {
+      "attempt": 1,
+      "returncode": 0,
+      "elapsed_seconds": 157.82,
+      "stdout": "BAR-P01-S-minus-duration.attempt1.jsonl",
+      "stderr": "BAR-P01-S-minus-duration.attempt1.stderr.txt"
+    }
+  ],
+  "model_requested": "gpt-6-astra",
+  "model_snapshot": "not_exposed_by_cli",
+  "reasoning_effort": "medium",
+  "status": "generated",
+  "finished_at": "2026-09-18T04:02:12.824914+00:00",
+  "output_sha256": "7473b7efa1723c32d25bf7125e5c21a634e74c4d3c89dfe16322ba987f3e5d6f"
+}

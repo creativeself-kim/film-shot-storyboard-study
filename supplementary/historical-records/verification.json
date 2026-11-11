@@ -1,0 +1,14 @@
+{
+  "images": 157,
+  "galleries": 8,
+  "source_plan_hashes_unchanged": 8,
+  "audited_boundaries": 149,
+  "dimensions": [
+    1536,
+    864
+  ],
+  "all_image_hashes_verified": true,
+  "gallery_image_order_verified": true,
+  "browser_layout_tested": false,
+  "visual_sample_only": 22
+}

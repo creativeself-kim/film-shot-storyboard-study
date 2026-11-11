@@ -1,0 +1,9 @@
+﻿plan_id,started_at,model,reasoning,snapshot,os_inferred_from_execution_path,attempts,source_path,source_sha256
+BAR-P01-N,2026-09-16T11:05:41.566624+00:00,gpt-6-astra,medium,not_exposed_by_cli,macOS-style path,1,evaluation/novel-shot-breakdown-v1/runs/BAR-P01-N.run.json,4bbdd6b47739ec711dd3e124eb881e4f9fff0acd1dadd439a0e5f2120682c5c6
+BAR-P01-S,2026-09-16T11:08:00.583892+00:00,gpt-6-astra,medium,not_exposed_by_cli,macOS-style path,1,evaluation/novel-shot-breakdown-v1/runs/BAR-P01-S.run.json,d8c2d0af8b21c466083e9224aba01beda47e1c244ef9c6511b56cf9d9099d82e
+RET-P01-N,2026-09-16T11:12:28.135818+00:00,gpt-6-astra,medium,not_exposed_by_cli,macOS-style path,1,evaluation/novel-shot-breakdown-v1/runs/RET-P01-N.run.json,d54ad7712b129d5f52595c39bfef2d0051a2aeb7408ac31e23695707b72ef356
+RET-P01-S,2026-09-16T11:10:43.002802+00:00,gpt-6-astra,medium,not_exposed_by_cli,macOS-style path,1,evaluation/novel-shot-breakdown-v1/runs/RET-P01-S.run.json,915323a2a4e28a70bf9f0da16ef55dfe30f7a6f476e76937dd21dcd98bec4af8
+BAR-P01-S-minus-duration,2026-09-18T03:59:35.005008+00:00,gpt-6-astra,medium,not_exposed_by_cli,Windows,1,evaluation/novel-ablation-v1/runs/BAR-P01-S-minus-duration.run.json,05d0471a47f526fa8db8c5ed03ead3b8e4cb44bb4ec6bbd702026ac965781e6b
+BAR-P01-S-minus-transition,2026-09-18T03:56:48.490043+00:00,gpt-6-astra,medium,not_exposed_by_cli,Windows,1,evaluation/novel-ablation-v1/runs/BAR-P01-S-minus-transition.run.json,e4575e4f70456044821519c36282716f1243fff5f55169eabded3d43280f38b0
+RET-P01-S-minus-duration,2026-09-18T04:02:12.828032+00:00,gpt-6-astra,medium,not_exposed_by_cli,Windows,1,evaluation/novel-ablation-v1/runs/RET-P01-S-minus-duration.run.json,ece8e6e93c2d51f7b3943b2808db0699ccec60560fcdc2e3895790c46899bd5a
+RET-P01-S-minus-transition,2026-09-18T04:04:06.497180+00:00,gpt-6-astra,medium,not_exposed_by_cli,Windows,1,evaluation/novel-ablation-v1/runs/RET-P01-S-minus-transition.run.json,1998ec6669e2d8a582e57a0f450dbf61c14220c3c6240332e1f01f8744b5760d

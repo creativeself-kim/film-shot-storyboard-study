@@ -1,0 +1,60 @@
+{
+  "id": "RET-P01-S-minus-transition",
+  "scene_id": "RET-P01",
+  "arm": "S-minus-transition",
+  "removed_fields": [
+    "transition_matrix_7"
+  ],
+  "request_sha256": "d978f136852925ad1792143327516afb8cdfe7829ab7eec89402a43935a9df51",
+  "target_seconds": 80,
+  "started_at": "2026-09-18T04:04:06.497180+00:00",
+  "argv": [
+    "C:\\Users\\KIM-JUNGHO\\AppData\\Local\\Programs\\OpenAI\\Codex\\bin\\codex.EXE",
+    "exec",
+    "--ignore-user-config",
+    "--ephemeral",
+    "--skip-git-repo-check",
+    "--sandbox",
+    "read-only",
+    "--model",
+    "gpt-6-astra",
+    "-c",
+    "model_reasoning_effort=\"medium\"",
+    "-c",
+    "web_search=\"disabled\"",
+    "--disable",
+    "shell_tool",
+    "--disable",
+    "unified_exec",
+    "--disable",
+    "multi_agent",
+    "--disable",
+    "apps",
+    "--disable",
+    "memories",
+    "--disable",
+    "plugins",
+    "--output-schema",
+    "D:\\paper\\cut-rhythm-paper\\evaluation\\novel-ablation-v1\\output-schema.json",
+    "--json",
+    "-o",
+    "D:\\paper\\cut-rhythm-paper\\evaluation\\novel-ablation-v1\\runs\\RET-P01-S-minus-transition.json",
+    "-"
+  ],
+  "cwd": "C:\\Users\\KIM-JU~1\\AppData\\Local\\Temp\\novel-breakdown-4fu38207",
+  "attempts": [
+    {
+      "attempt": 1,
+      "returncode": 0,
+      "elapsed_seconds": 116.57,
+      "stdout": "RET-P01-S-minus-transition.attempt1.jsonl",
+      "stderr": "RET-P01-S-minus-transition.attempt1.stderr.txt"
+    }
+  ],
+  "model_requested": "gpt-6-astra",
+  "model_snapshot": "not_exposed_by_cli",
+  "reasoning_effort": "medium",
+  "status": "generated",
+  "finished_at": "2026-09-18T04:06:03.066906+00:00",
+  "output_sha256": "b9f216e452092284c595e0e6901474a4ef6a6f5b972f97b5c53c833ccdb56b08"
+}

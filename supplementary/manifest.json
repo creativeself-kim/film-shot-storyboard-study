@@ -1,0 +1,18 @@
+{
+  "supplementary/S4-NS-production-comparison.md": "fa8a53cf6dc1eee59031400a329b841159a2d5ee7b2695d1a77c0cdf3927d107",
+  "supplementary/manuscript-and-response.md": "593d36eaad15e49c3a0b41baec6775223b215803484692a70152590e951d74e4",
+  "supplementary/S2-cut-register.csv": "a7cc21f229bdf2dccd3d9be23700f34e41a249fd473493782f4f085fa2a30c81",
+  "supplementary/S1-condition-summary.csv": "4a1e293dda67bb9bb29c39fcf320b9bc05d2f1ab91fc648876e2e93e60f42754",
+  "supplementary/README.md": "df791ea7399d0f3b964a9e476118410302f5f33cd51790032011faa2f6ca8911",
+  "supplementary/S3-plan-execution.csv": "ebadb018b57854901750c5bedc93f8a7c401ecbe2b23e32c01821de0e348e2ca",
+  "supplementary/historical-records/README.md": "793138154abe59b9511fb283809d748921cc62d02eb08edb9a4e85d0a3779d3f",
+  "supplementary/historical-records/verification.json": "dc1022f26de09d9bd9146ea3f3d61b9736e8e1a2c6cf30dbbd4864de2be3598c",
+  "supplementary/historical-records/novel-shot-breakdown-v1/RET-P01-N.run.json": "d54ad7712b129d5f52595c39bfef2d0051a2aeb7408ac31e23695707b72ef356",
+  "supplementary/historical-records/novel-shot-breakdown-v1/BAR-P01-S.run.json": "d8c2d0af8b21c466083e9224aba01beda47e1c244ef9c6511b56cf9d9099d82e",
+  "supplementary/historical-records/novel-shot-breakdown-v1/BAR-P01-N.run.json": "4bbdd6b47739ec711dd3e124eb881e4f9fff0acd1dadd439a0e5f2120682c5c6",
+  "supplementary/historical-records/novel-shot-breakdown-v1/RET-P01-S.run.json": "915323a2a4e28a70bf9f0da16ef55dfe30f7a6f476e76937dd21dcd98bec4af8",
+  "supplementary/historical-records/novel-ablation-v1/BAR-P01-S-minus-transition.run.json": "e4575e4f70456044821519c36282716f1243fff5f55169eabded3d43280f38b0",
+  "supplementary/historical-records/novel-ablation-v1/RET-P01-S-minus-transition.run.json": "1998ec6669e2d8a582e57a0f450dbf61c14220c3c6240332e1f01f8744b5760d",
+  "supplementary/historical-records/novel-ablation-v1/RET-P01-S-minus-duration.run.json": "ece8e6e93c2d51f7b3943b2808db0699ccec60560fcdc2e3895790c46899bd5a",
+  "supplementary/historical-records/novel-ablation-v1/BAR-P01-S-minus-duration.run.json": "05d0471a47f526fa8db8c5ed03ead3b8e4cb44bb4ec6bbd702026ac965781e6b"
+}

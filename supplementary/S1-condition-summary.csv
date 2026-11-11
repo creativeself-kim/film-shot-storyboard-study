@@ -1,0 +1,9 @@
+﻿plan_id,total_cuts,final_prompts_available,state_instructions_available,production_stage,before_after_pairs_available,verified_modified_cut_count
+BAR-P01-N,20,20,20,N/S re-production,0,not_determinable
+BAR-P01-S,26,26,26,N/S re-production,0,not_determinable
+BAR-P01-S-minus-duration,22,22,22,first image production,0,not_determinable
+BAR-P01-S-minus-transition,26,26,26,first image production,0,not_determinable
+RET-P01-N,17,17,17,N/S re-production,0,not_determinable
+RET-P01-S,15,15,15,N/S re-production,0,not_determinable
+RET-P01-S-minus-duration,15,15,15,first image production,0,not_determinable
+RET-P01-S-minus-transition,16,16,16,first image production,0,not_determinable

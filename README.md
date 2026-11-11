@@ -17,3 +17,6 @@ python3 evaluation/perceived-clarity-study/analyze_collected_data.py
 
 ## 출처
 Google Drive의 연구 데이터 및 그림 / 04 재현 자료 / research-data-and-analysis.zip에 대응하는 기존 로컬 보관본에서 선별했습니다. 이번 작업에서는 Drive 파일 목록과 ZIP 크기를 확인했으며 최신 원격 ZIP과 바이트 단위 동일성은 검증하지 않았습니다. 원본 파일 해시는 `source-manifest.json`에 기록했습니다.
+
+## 제작 보충자료
+[보충자료 S](supplementary/README.md) · [본문 보완 및 답변 초안](supplementary/manuscript-and-response.md)
