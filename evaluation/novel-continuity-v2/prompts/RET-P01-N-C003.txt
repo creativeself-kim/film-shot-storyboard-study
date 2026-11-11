@@ -1,0 +1,16 @@
+Draw ONE continuous monochrome graphite-and-ink storyboard frame, one camera view, one instant. No labels, dialogue, captions, text, panels, collage, contact sheet or multiple temporal stages. Preserve character identity from attached sheets, but never copy the sheet layout. The LAST reference is the shared clean environment: preserve geography/materials, change crop and camera according to this shot. Use readable restrained gray values; cave remains dark, mountain daylight remains soft.
+
+Reference order: 1=RET-P01-geom-mugeuk, 2=RET-P01-geom-ujin, 3=RET-P01-stage
+Visible identities or body parts permitted in THIS frame: son father. Other characters may exist outside frame but must not be added.
+
+Shared scene geography, binding across the whole sequence: the same mountain path with forked pine, low rounded boulder and rocky bank from the clean stage reference. Travel follows the path from lower left toward upper right distance. In stopped two-shots SON Geom Mugeuk is on the LEFT, FATHER Geom Ujin on the RIGHT. Father faces left toward son; son faces right toward father. Keep camera on the valley/near side of the relationship axis; camera may move between side, three-quarter front and rear within that side, but do not mirror their world positions. Father has no backpack; son wears the SAME large hunting backpack throughout. When father turns partly to leave then asks another question, their feet remain on the same stopping patch. Finger attack is father's anatomical RIGHT index finger; it passes immediately beside son's anatomical RIGHT cheek, never through skin. Son turns his face away from the air line, cheek stays uninjured. Father lowers attacking hand by his reaction shot. Son touches that same RIGHT cheek with his RIGHT hand through protest and joke. He lowers the hand before following father. At the ending father leads along the same path, son follows several steps behind. Father never turns back during praise or thanks. Son looks ALONG the path toward father, not backward toward camera. Maintain soft daylight, clothing, ages, backpack and landmarks. No new people, weapon use, wounds or extra attacks. The faint air streak appears ONLY in the attack frame, nowhere else.
+
+CURRENT SHOT 3: MLS. Knees to head.
+Camera: 두 인물의 측면, 눈높이. Planned movement: 고정; depict one still view only.
+Exact current representative instant: 검우진이 몸과 얼굴을 아들에게 돌리고 서 있다. 배낭을 멘 검무극이 가까이서 그를 바라본다.
+Current event context: 두 사람을 무릎 부근부터 머리까지 담는다. 검우진이 걸음을 멈추고 아들을 돌아보며 맹수라면 발톱을 숨길 까닭이 있는지 묻는다. 검무극도 멈춰 아버지를 마주한다.
+Continuity production state for THIS instant: BOTH have stopped: son left, father right turning back/left toward son. Feet fixed on the same stopping patch, approximately one-and-a-half arm lengths apart. No cheek touch or air streak.
+
+PREVIOUS instant, context ONLY, do not draw it again: 큰 배낭을 멘 검무극이 고개를 아버지 쪽으로 향한 채 말하고 있다.
+NEXT instant, context ONLY, do not jump ahead or combine it: 검무극이 입을 다문 채 아버지를 바라보고 있다. 어깨에는 배낭 끈이 걸려 있다.
+Render ONLY the current instant. Preserve anatomical sides, object ownership and the specified crop. A close-up is allowed to omit off-frame objects; do not force the entire scene into every shot.

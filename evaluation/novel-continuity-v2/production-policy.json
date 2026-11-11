@@ -1,0 +1,27 @@
+{
+  "status": "posthoc_continuity_production_revision_not_confirmatory_experiment",
+  "scope": "8 plans, 157 frames plus 2 shared clean backgrounds",
+  "geometry": {
+    "BAR-P01": "Shared scene geography, binding across the whole sequence: the same cave floor, low forehead boulder and far-wall crystal cluster from the clean stage image. In wide side views Bjorn occupies the left and the goblin approaches from the deeper passage at right, moving right-to-left. Keep the camera on the near side of their action axis; close-ups may crop or change elevation, but never mirror anatomy or swap world positions. After the takedown they remain on the SAME patch of floor, goblin supine with head to the right and feet to the left, Bjorn straddling its waist, both knees grounded. Do not shift the fight to another tunnel. Shield is Bjorn's ONE round wooden shield from his sheet; held in his LEFT hand initially, then rests at its original fall location just behind his left side near the low boulder for the rest of the scene. It is not strapped to his arm during the fight. RIGHT foot stays injured and cloth-wrapped; no healing, new weapon, extra goblin or extra prop. Right-hand grab is of the goblin's anatomical LEFT forearm, not screen-left arm. Release the grab when settling into the mounted position before punching; thereafter left hand braces torso and RIGHT fist attacks. After death left forearm begins dissolving, followed by remaining body; already dissolved parts never return. Exactly ONE small magic stone appears only after complete disappearance, is picked up in RIGHT hand and remains there. No magic stone in earlier moments. Time moves forward without a new location, lighting change or restart.",
+    "RET-P01": "Shared scene geography, binding across the whole sequence: the same mountain path with forked pine, low rounded boulder and rocky bank from the clean stage reference. Travel follows the path from lower left toward upper right distance. In stopped two-shots SON Geom Mugeuk is on the LEFT, FATHER Geom Ujin on the RIGHT. Father faces left toward son; son faces right toward father. Keep camera on the valley/near side of the relationship axis; camera may move between side, three-quarter front and rear within that side, but do not mirror their world positions. Father has no backpack; son wears the SAME large hunting backpack throughout. When father turns partly to leave then asks another question, their feet remain on the same stopping patch. Finger attack is father's anatomical RIGHT index finger; it passes immediately beside son's anatomical RIGHT cheek, never through skin. Son turns his face away from the air line, cheek stays uninjured. Father lowers attacking hand by his reaction shot. Son touches that same RIGHT cheek with his RIGHT hand through protest and joke. He lowers the hand before following father. At the ending father leads along the same path, son follows several steps behind. Father never turns back during praise or thanks. Son looks ALONG the path toward father, not backward toward camera. Maintain soft daylight, clothing, ages, backpack and landmarks. No new people, weapon use, wounds or extra attacks. The faint air streak appears ONLY in the attack frame, nowhere else."
+  },
+  "original_source_sha256": {
+    "evaluation\\novel-shot-breakdown-v1\\runs\\BAR-P01-N.json": "bfeba6e6871cf738f886eede57b24c413542b0f20ae94a8aed3bc65a2471b2ff",
+    "evaluation\\novel-shot-breakdown-v1\\runs\\BAR-P01-S.json": "b1e5922e890f8ec306d11333abd3eedb699dd85d6ebf729b5eca93f58efde4b6",
+    "evaluation\\novel-shot-breakdown-v1\\runs\\RET-P01-N.json": "9fcbba8236e079d22537f8488d29c16e97bd2d656a4964c84008363e3cb7a20f",
+    "evaluation\\novel-shot-breakdown-v1\\runs\\RET-P01-S.json": "ca98380a7640b0204f7b0423d4cdbe14eb4f39a35f36008a17987f3e0fe6e836",
+    "evaluation\\novel-ablation-v1\\runs\\BAR-P01-S-minus-duration.json": "7473b7efa1723c32d25bf7125e5c21a634e74c4d3c89dfe16322ba987f3e5d6f",
+    "evaluation\\novel-ablation-v1\\runs\\BAR-P01-S-minus-transition.json": "fa00631a5224c7c30435f46a5239ec5d3dd501235a04fc2c5d8164066beda64d",
+    "evaluation\\novel-ablation-v1\\runs\\RET-P01-S-minus-duration.json": "2a4f7dd7821300887221b9f5a6208f3bd9d6c65f0284d6cfe0d69ecbd42bc044",
+    "evaluation\\novel-ablation-v1\\runs\\RET-P01-S-minus-transition.json": "b9f216e452092284c595e0e6901474a4ef6a6f5b972f97b5c53c833ccdb56b08"
+  },
+  "unchanged": "Cut count/order/size/time/action/dialogue; BAR S-minus-transition remains 101 seconds",
+  "added": "Common blocking, anatomical sides, prop states, previous/next text context, clean environment reference",
+  "not_used": "No previous generated frame conditioning; no claim that textual continuity guarantees visual continuity",
+  "sampling": "Sunburst medium 1536x864 opaque n=1; node seed is not implemented by backend",
+  "selection": "Keep first output; technical failures recorded separately; no silent aesthetic replacement",
+  "comparison_limit": "Repair applied after seeing original outputs to all conditions; before/after cannot isolate film-statistics effect",
+  "catalog_sha256": "4b610a7c12773dd4b0e298422725902ee69221f3bf4625f4b42139728dbe8846",
+  "batch_request_sha256": "5da7de91f59fec5fa1560fd664885af2350d45a0ce7626cf7123e7c6309cd2d6",
+  "preparation_script_sha256": "428caf97d8b5ae2c1eb0013188d0804689124685bf9180616f5b4be839c345fd"
+}

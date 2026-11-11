@@ -1,0 +1,262 @@
+{
+  "is_synthetic": false,
+  "provenance": "Author confirmed on 2026-09-22: 30 actual participants with generative-AI content-production experience; prior synthetic/persona annotations were erroneous.",
+  "participants": 30,
+  "responses": 60,
+  "source_sha256": {
+    "participants.csv": "0a0a4c8022f41de08095c4de9872a0fda3e629adc4dc8318774284c9891cedbb",
+    "responses.csv": "21f21f9002dc12e0e8855e0d5f48585e374f3c8a09611ec76ba81e6e6658f431"
+  },
+  "stratum_counts": {
+    "NN/BAR-first": 4,
+    "NN/RET-first": 4,
+    "NS/BAR-first": 4,
+    "NS/RET-first": 3,
+    "SN/BAR-first": 3,
+    "SN/RET-first": 4,
+    "SS/BAR-first": 4,
+    "SS/RET-first": 4
+  },
+  "summary": [
+    {
+      "is_synthetic": false,
+      "scene": "BAR-P01",
+      "condition": "N",
+      "n": 15,
+      "Q1_mean": 4.133333333333334,
+      "Q1_sd": 1.505545305418162,
+      "Q2_mean": 4.466666666666667,
+      "Q2_sd": 1.7265434778633235,
+      "Q3_mean": 4.133333333333334,
+      "Q3_sd": 1.505545305418162,
+      "Q4_mean": 4.533333333333333,
+      "Q4_sd": 1.6417180315870612
+    },
+    {
+      "is_synthetic": false,
+      "scene": "BAR-P01",
+      "condition": "S",
+      "n": 15,
+      "Q1_mean": 5.733333333333333,
+      "Q1_sd": 1.533747356112131,
+      "Q2_mean": 5.4,
+      "Q2_sd": 1.0555973258234952,
+      "Q3_mean": 5.2,
+      "Q3_sd": 1.6124515496597098,
+      "Q4_mean": 5.533333333333333,
+      "Q4_sd": 0.9154754164341269
+    },
+    {
+      "is_synthetic": false,
+      "scene": "RET-P01",
+      "condition": "N",
+      "n": 15,
+      "Q1_mean": 3.933333333333333,
+      "Q1_sd": 1.4375905768565216,
+      "Q2_mean": 4.733333333333333,
+      "Q2_sd": 1.2798809468443688,
+      "Q3_mean": 3.6666666666666665,
+      "Q3_sd": 1.1751393027860062,
+      "Q4_mean": 4.133333333333334,
+      "Q4_sd": 1.245945806357946
+    },
+    {
+      "is_synthetic": false,
+      "scene": "RET-P01",
+      "condition": "S",
+      "n": 15,
+      "Q1_mean": 5.333333333333333,
+      "Q1_sd": 1.3972762620115438,
+      "Q2_mean": 5.733333333333333,
+      "Q2_sd": 1.2227992865708155,
+      "Q3_mean": 4.6,
+      "Q3_sd": 2.0632844828435215,
+      "Q4_mean": 5.2,
+      "Q4_sd": 1.5675276256394517
+    }
+  ],
+  "score_counts_1_to_7": {
+    "BAR-P01/N": {
+      "Q1": [
+        0,
+        2,
+        4,
+        3,
+        3,
+        2,
+        1
+      ],
+      "Q2": [
+        1,
+        2,
+        0,
+        4,
+        3,
+        4,
+        1
+      ],
+      "Q3": [
+        1,
+        0,
+        4,
+        5,
+        2,
+        2,
+        1
+      ],
+      "Q4": [
+        1,
+        1,
+        1,
+        3,
+        6,
+        1,
+        2
+      ]
+    },
+    "BAR-P01/S": {
+      "Q1": [
+        0,
+        1,
+        1,
+        0,
+        3,
+        4,
+        6
+      ],
+      "Q2": [
+        0,
+        0,
+        0,
+        4,
+        3,
+        6,
+        2
+      ],
+      "Q3": [
+        1,
+        1,
+        0,
+        0,
+        4,
+        8,
+        1
+      ],
+      "Q4": [
+        0,
+        0,
+        0,
+        2,
+        5,
+        6,
+        2
+      ]
+    },
+    "RET-P01/N": {
+      "Q1": [
+        1,
+        1,
+        4,
+        3,
+        4,
+        2,
+        0
+      ],
+      "Q2": [
+        0,
+        1,
+        1,
+        4,
+        5,
+        3,
+        1
+      ],
+      "Q3": [
+        0,
+        3,
+        3,
+        6,
+        2,
+        1,
+        0
+      ],
+      "Q4": [
+        0,
+        1,
+        4,
+        4,
+        5,
+        0,
+        1
+      ]
+    },
+    "RET-P01/S": {
+      "Q1": [
+        0,
+        1,
+        0,
+        2,
+        6,
+        2,
+        4
+      ],
+      "Q2": [
+        0,
+        0,
+        1,
+        2,
+        1,
+        7,
+        4
+      ],
+      "Q3": [
+        2,
+        1,
+        1,
+        2,
+        3,
+        3,
+        3
+      ],
+      "Q4": [
+        0,
+        0,
+        3,
+        3,
+        1,
+        4,
+        4
+      ]
+    }
+  },
+  "Q1_comparisons": {
+    "BAR-P01": {
+      "S_minus_N": 1.5999999999999996,
+      "ci95": [
+        0.666666666666667,
+        2.5333333333333337
+      ]
+    },
+    "RET-P01": {
+      "S_minus_N": 1.4,
+      "ci95": [
+        0.5333333333333332,
+        2.2666666666666666
+      ]
+    },
+    "equal_scene_weight": {
+      "S_minus_N": 1.4999999999999998,
+      "ci95": [
+        0.8666666666666666,
+        2.1333333333333333
+      ]
+    }
+  },
+  "bootstrap": {
+    "resamples": 20000,
+    "seed": 20260922,
+    "rng": "Python random.Random",
+    "method": "Percentile, linear interpolation; stratified by condition pair and scene order; participant is the resampling unit, retaining both scene responses."
+  },
+  "interpretation": "Exploratory estimates conditional on these two fixed scene outputs and observed allocation strata; recruitment and randomization procedures are not verified by these files. Q2-Q4 are descriptive secondary outcomes; no multiplicity-adjusted hypothesis tests."
+}
